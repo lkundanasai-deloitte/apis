@@ -1,0 +1,106 @@
+[
+    {
+    "actors": [
+      "Hugo Weaving",
+      "Natalie Portman",
+      "Rupert Graves"
+    ],
+    "desc": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \u0026quot;V\u0026quot;, plots to overthrow the tyrannical government - with the help of a young woman.",
+    "directors": [
+      "James McTeigue"
+    ],
+    "genre": [
+            "Sci-Fi"
+    ],
+    "image_url": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
+    "thumb_url": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "imdb_url": "/title/tt0434409/",
+    "name": "V for Vendetta",
+    "rating": 8.2,
+    "year": 2006
+  },
+  {
+    "actors": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David"
+    ],
+    "desc": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "directors": [
+      "John Carpenter"
+    ],
+    "genre": [
+            "Sci-Fi"
+    ],
+    "image_url": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "thumb_url": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "imdb_url": "/title/tt0084787/",
+    "name": "The Thing",
+    "rating": 8.2,
+    "year": 1982
+  },
+    {
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn"
+    ],
+    "desc": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity\u0026apos;s future salvat...",
+    "directors": [
+      "James Cameron"
+    ],
+    "genre": [
+
+      "Sci-Fi"
+    ],
+    "image_url": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "thumb_url": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "imdb_url": "/title/tt0088247/",
+    "name": "The Terminator",
+    "rating": 8.1,
+    "year": 1984
+  },
+    {
+    "actors": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "desc": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genre": [
+          "Sci-Fi"
+    ],
+    "image_url": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+    "thumb_url": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "imdb_url": "/title/tt0482571/",
+    "name": "The Prestige",
+    "rating": 8.5,
+    "year": 2006
+  },
+  {
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "desc": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "directors": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "genre": [
+      "Sci-Fi"
+    ],
+    "image_url": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "thumb_url": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "imdb_url": "/title/tt0133093/",
+    "name": "The Matrix",
+    "rating": 8.7,
+    "year": 1999
+  }
+  ]
+  
+  
